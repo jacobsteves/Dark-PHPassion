@@ -1,13 +1,13 @@
 {
-  "name": "p-h-passion",
+  "name": "dark-phpassion",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "1.0.0",
+  "description": "An atom syntax theme based off of cool tone php colours.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/p-h-passion",
+  "repository": "https://github.com/jacobsteves/dark-phpassion",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

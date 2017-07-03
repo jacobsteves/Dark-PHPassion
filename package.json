@@ -1,5 +1,5 @@
 {
-  "name": "dark-phpassion",
+  "name": "p-h-passion-dark-syntax",
   "theme": "syntax",
   "version": "1.0.0",
   "description": "An atom syntax theme based off of cool tone php colours.",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/jacobsteves/dark-phpassion",
+  "repository": "https://github.com/jacobsteves/phpassion-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
